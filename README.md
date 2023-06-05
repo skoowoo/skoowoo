@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 -->
 
 - 🎙️ I’m currently working on HardHacker.
-- 🤖 I used C, Go, Rust and Lua to develop projects. I'm good at infrastructure development.
+- 🤖 I'm good at infrastructure development and C, Go, Rust programming languages.
 - 🌈 I’m currently learning front-end development.
