@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 - 🎙️ I’m currently working on HardHacker.
 - 🤖 I'm good at infrastructure development and C, Go, Rust programming languages.
-- 🌈 I’m currently learning front-end development.
+- 🌈 I'm a front-end newbie，I’m currently learning front-end development (I'm better at operating systems than browsers).
